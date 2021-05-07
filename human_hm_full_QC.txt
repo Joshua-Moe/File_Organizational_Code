@@ -1,0 +1,2 @@
+DCid	Species	GSMID	Factor	Cell_line	Cell_type	Tissue_type	FastQC	UniquelyMappedRatio	PBC	PeaksFoldChangeAbove10	FRiP	PeaksUnionDHSRatio
+# I cannot provide any of the files that were used. I had to sign for approval. 
